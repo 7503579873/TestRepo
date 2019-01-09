@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Python and pytest
 =================
 
@@ -52,3 +53,7 @@ maths/tests/test_fibonacci.py .....
 =========================== 5 passed in 0.30 seconds ===========================
 $ cat report.xml
 ```
+=======
+# TestRepo
+test python code
+>>>>>>> 6dbb11fe60773daadbd7e4717ec208429664e4cd
